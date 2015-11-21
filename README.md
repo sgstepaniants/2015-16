@@ -21,5 +21,3 @@ Instructions for working on code:
 | PyGame 1.9.1 (32 bit) |      http://www.pygame.org/download.shtml      |
 |          git          |           https://git-scm.com/downloads        |
 |      Wireshark        |            http://www.wireshark.org/           |
-
-Edited
